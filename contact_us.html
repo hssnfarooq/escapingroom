@@ -95,17 +95,19 @@
               <!-- header_top_social start -->
 
               <div class="header_top_social">
-                <a href="#"
+                <a href="https://www.facebook.com/escapingurreality"
                   ><i class="fa fa-facebook" aria-hidden="true"></i
                 ></a>
-
-                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-
-                <a href="#"
+                <a href="https://twitter.com/Escapeurreality"
+                  ><i class="fa fa-twitter" aria-hidden="true"></i
+                ></a>
+                <a href="https://www.instagram.com/escape_ur_reality/"
                   ><i class="fa fa-instagram" aria-hidden="true"></i
                 ></a>
-
-                <a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                <a
+                  href="https://www.youtube.com/channel/UCWpwU8TFUzOZg1AYQh98pbQ"
+                  ><i class="fa fa-youtube" aria-hidden="true"></i
+                ></a>
               </div>
 
               <!-- header_top_social end -->
@@ -494,7 +496,9 @@
           <div class="container">
             <div class="row">
               <div class="col-md-12 text-center">
-                <p class="copyright_txt">© 2020. All Rights Reserved.</p>
+                <p class="copyright_txt">
+                  © <span id="getyear"></span>. All Rights Reserved.
+                </p>
               </div>
             </div>
           </div>
@@ -619,7 +623,9 @@
         }
       });
     </script>
-
+    <script>
+      document.getElementById('getyear').innerHTML = new Date().getFullYear();
+    </script>
     <!-- scripts end -->
   </body>
 </html>
