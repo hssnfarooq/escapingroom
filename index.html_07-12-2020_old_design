@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Escaping | Home</title>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet"> 
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+
+<!-- style start -->
+<link rel="icon" href="images/favicon.jpg" sizes="57x57" />
+<link href="css/style.css" media="all" rel="stylesheet" type="text/css">
+<link href="css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css">
+<link href="css/font-awesome.css" media="all" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="css/owl.theme.default.min.css">
+<link rel="stylesheet" href="css/animate.css">
+<link href="css/responsive.css" media="all" rel="stylesheet" type="text/css">
+<!-- style end -->
+<!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+ <![endif]-->
+
+</head>
+<body>
+<!-- wrapper_home start -->
+<div class="wrapper_home"> 
+  
+  <!-- top_bar_start -->
+  <div class="top_bar">
+    <div class="container">
+      <div class="row"> 
+        <!-- col-md-6 start -->
+        <div class="col-md-12 ">
+          <ul class="info">
+            <li><a href="mailto:eccapingreality@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>eccapingreality@gmail.com</a> </li>
+            
+          </ul>
+            <a href="book_now.html" class="m_appoint_btn">BOOK NOW</a>        
+            <!-- header_top_social start -->
+            <div class="header_top_social"> 
+            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
+            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
+              <a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>  
+             </div>
+            <!-- header_top_social end --> 
+            
+        </div>
+        <!-- col-md-6 end --> 
+        <!-- col-md-6 start -->
+        <div class="col-md-6"> 
+                  
+        </div>
+        <!-- col-md-6 end --> 
+      </div>
+    </div>
+  </div>
+  <!-- top_bar_end --> 
+  
+  <!-- header start -->
+  <header>
+    <div class="header"> 
+      <!-- navigation start -->
+      <div class="nav_holder animated">
+        <nav class="navbar navbar-expand-md navbar-dark nav_yellow">
+          <div class="container"> <a class="navbar-brand" href="index.html"><img src="images/logo.jpg" alt="Escaping" title="Escaping"/></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+              <div class="menu-menu-1-container nav_yellow_center">
+                <ul id="navbar-nav" class="navbar-nav">
+                  <li class="menu-item current_page_item"><a href="index.html" class="">Home </a></li>                  
+                  <li class="menu-item"><a href="welcome.html">Welcome</a></li>
+                  <li class="menu-item"><a href="work_for_us.html">work for us </a></li>
+                  <li class="menu-item"><a href="reviews.html"> reviews </a></li>
+                  <li class="menu-item"><a href="book_now.html"> Book Now </a></li>
+                  <li class="menu-item"><a href="contact_us.html"> contact us</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <!-- navigation end --> 
+      
+    </div>
+  </header>
+  <!-- header end --> 
+  
+  <!-- header-slider-one start -->
+  <div id="homebanner-holder"> 
+    <!-- home-banner start -->
+    <div class="home-banner"><img src="images/main_banner_img.jpg">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <div class="slider-text ">
+              <h2 class="wow fadeInRight">100% </br>
+EXCITING</h2>
+              <h1 class="wow fadeInLeft">You have one hour to
+complete the mission</h1>
+
+     <p>Escape your reality Join us for a session where reality doesn't exist</p>
+              <p class="wow fadeInUp"><a href="#" class="b_slider">CHOOSE ADVENTURE </a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+   
+    <!-- home-banner end --> 
+  </div>
+  <!-- header-slider-one end --> 
+  
+  <!-- home container start -->
+  <div class="home_container_holder"> 
+    
+<!-- welcome_wrapper start -->    
+    <div class="welcome_wrapper">
+     <div class="container">
+       <div class="row">
+         <div class="col-md-12 text-center"><h2>Welcome!</h2></div>
+       </div>
+       
+       <div class="row">
+         <div class="col-md-5">
+           <div class="img_block"><img src="images/welcome_img.png" alt="Welcome"/></div>
+         </div>
+          <div class="col-md-7">
+            <div class="text_block">
+              <h3>private escape room adventures</h3>
+              <p>We must choose our personal viewpoint. We can embrace a sense of weighty heaviness that comes from knowing that our fate is one of deterioration and death, and our suffering is interminable. Alternatively, we can choose to believe in the unbearable lightness of our being and embrace a world of high-minded thoughts and ideals. The decisions we make are significant regardless if we only have one life to live. We weave our life story out of the choices that we make when confronted with the inevitable opportunities to experience love and friendship and heartache and suffering. During our life, we encounter goodness and evilness, and hope and despair. We must decide whether we accept reality. Alternatively, do we seek to escape the pain that comes from acknowledging the paucity of human existence?</p>
+              
+               <ul class="welul">
+                 <li><span>1</span>Everything inside the room immerses you in the atmosphere of adventure: incredible decorations, stunning effects, and shocking plot twists.</li>
+                 <li><span>2</span>You don't just solve the puzzles; you unravel a real detective story during your adventure.</li>
+                 <li><span>3</span>You get a private experience with your friends – just the closest and most trusted people, no strangers.</li>
+                 
+               </ul>
+              
+              
+            </div>
+          </div>
+       </div>
+            
+     </div>     
+    </div>
+    
+<!-- welcome_wrapper end -->  
+<!-- choose_how_wrapper start -->
+    <div class="choose_how_wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2>Choose how you want to Escape Your Reality</h2>
+            <p>Pick an adventure and create your own reality.</p>
+          </div>
+        </div>
+        <!-- choose_how_bottom start -->
+        <div class="choose_how_bottom">
+          <div class="row">
+            <div class="col-md-6">
+              <!-- choose_how_holder start -->
+              <div class="choose_how_holder">
+                <div class="img_block">
+                  <img src="images/stag_party.png" alt="stag_party"/>
+                </div>
+                <div class="text_block">
+                  <h4>STAG PARTY</h4>
+                  <p>After a fun night, you open your eyes in the room of a five-star hotel and do not remember anything. Where did the bike come from? Why are you handcuffed? What happened to the stripper? Where did you put an 
+engagement ring? </p>
+                </div>
+              
+              </div>
+              <!-- choose_how_holder end -->
+            </div>
+              <div class="col-md-6">
+               <!-- choose_how_holder start -->
+              <div class="choose_how_holder">
+                <div class="img_block">
+                  <img src="images/serial_killer.png" alt="serial_killer"/>
+                </div>
+                <div class="text_block">
+                  <h4>SERIAL KILLER</h4>
+                  <p> For many years, the doctor of psychiatry Hannibal Lecter is in prison for numerous murders. But not everyone sees him as a monster, someone admires the genius of a maniac. And it seems that he has a follower. Will you be able to outwit Dr. Lecter and his assistant, or will you appear at the worst dinner in your life?</p>
+                </div>
+              
+              </div>
+              <!-- choose_how_holder end -->
+              
+              
+              </div>
+          
+          </div>
+        
+        </div>
+         <!-- choose_how_bottom end -->
+      
+      
+      </div>            
+    </div>
+    
+<!-- choose_how_wrapper end -->  
+<!-- quest_room_wrapper start -->
+ <div class="quest_room_wrapper">
+   <div class="container">
+     <div class="row">
+       <div class="col-md-12 text-center">
+         <h3>Quest rooms for every taste!</h3>
+         <h2>OUR GAMES ARE PERFECT FOR</h2>
+       </div>
+     </div>
+    <!-- quest_room_wrapper_bottom start  -->
+    <div class="quest_room_wrapper_bottom"> 
+      <div class="row">
+        <div class="col-md-3 col-sm-6">
+          <!-- quest_room_holder start -->
+          <div class="quest_room_holder">
+            <div class="img_block"><img src="images/friend_and_family.png"/></div>
+            <div class="text_block">
+              <h4>FRIENDS & FAMILIES</h4>
+              <p>Experience the exciting adventure with your family and friends!</p>
+              
+            </div>
+          </div>
+          <!-- quest_room_holder end -->
+        </div>
+        
+         <div class="col-md-3 col-sm-6">
+          <!-- quest_room_holder start -->
+          <div class="quest_room_holder">
+            <div class="img_block"><img src="images/hobby.png"/></div>
+            <div class="text_block">
+              <h4>HOBBY DETECTIVES</h4>
+              <p>You are a hobby detective yourself or have a very special idea for your date.</p>
+              
+            </div>
+          </div>
+          <!-- quest_room_holder end -->
+        </div>
+        
+         <div class="col-md-3 col-sm-6">
+          <!-- quest_room_holder start -->
+          <div class="quest_room_holder">
+            <div class="img_block"><img src="images/trendsetters.png"/></div>
+            <div class="text_block">
+              <h4>TRENDSETTERS</h4>
+              <p>Are you bored and looking for new 
+challenges?</p>
+              
+            </div>
+          </div>
+          <!-- quest_room_holder end -->
+        </div>
+        
+         <div class="col-md-3 col-sm-6">
+          <!-- quest_room_holder start -->
+          <div class="quest_room_holder">
+            <div class="img_block"><img src="images/teambuild.png"/></div>
+            <div class="text_block">
+              <h4>TEAMBUILDING</h4>
+              <p>Are you bored and looking for 
+new challenges?</p>
+              
+            </div>
+          </div>
+          <!-- quest_room_holder end -->
+        </div>
+        
+        
+      </div>  
+    </div>
+  <!-- quest_room_wrapper_bottom end  -->
+    
+   
+   </div>
+ </div> 
+<!-- quest_room_wrapper end --> 
+
+<!-- work_togather_wrapper start -->
+<div class="work_togather_wrapper">
+ <div class="container">
+   <div class="row">
+     <div class="col-md-12 text-center">
+       <h3>Bring your team together!</h3>
+       <h2>WORK TOGETHER TO SOLVE
+A SERIES OF RIDDLES</h2>
+
+        <a href="#" class="video_play"><img src="images/video_play_icon.png"/></a>
+     </div>
+   </div>
+   
+   
+   
+ </div>
+</div>
+<!-- work_togather_wrapper end -->
+<!-- can_we_escape_wrapper start -->
+<div class="can_we_escape_wrapper">
+ <div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h2>CAN YOU ESCAPE?</h2>
+    </div>
+  </div>
+  <!-- can_we_escape_middle start -->
+  <div class="can_we_escape_middle">
+    <div class="row">
+      <div class="col-md-3 col-sm-6">
+        <!-- can_we_holder start -->
+        <div class="can_we_holder">
+          <div class="img_block">
+            <span class="icon_wrap"><img src="images/lock_icon.png"/></span>
+          </div>
+          <div class="text-block">
+             <h4>LOCKED IN</h4>
+             <p>You and your team mates are locked in a custom built challenging and entertaining environment.</p>
+          </div>
+        </div>
+        <!-- can_we_holder end -->
+      </div>
+      <div class="col-md-3 col-sm-6">
+        <!-- can_we_holder start -->
+        <div class="can_we_holder">
+          <div class="img_block">
+            <span class="icon_wrap"><img src="images/60_minutes_icon.png"/></span>
+          </div>
+          <div class="text-block">
+             <h4>60MINS</h4>
+             <p>In 60 minutes you have to solve the many mysteries and challenges to find the path to freedom and glory!</p>
+          </div>
+        </div>
+        <!-- can_we_holder end -->
+      </div>
+      
+      <div class="col-md-3 col-sm-6">
+        <!-- can_we_holder start -->
+        <div class="can_we_holder">
+          <div class="img_block">
+            <span class="icon_wrap"><img src="images/find_the_clues_icon.png"/></span>
+          </div>
+          <div class="text-block">
+             <h4>FIND THE CLUES</h4>
+             <p>Unravel the mystery and work your way out, it's all in front of you!</p>
+          </div>
+        </div>
+        <!-- can_we_holder end -->
+      </div>
+      
+      <div class="col-md-3 col-sm-6">
+        <!-- can_we_holder start -->
+        <div class="can_we_holder">
+          <div class="img_block">
+            <span class="icon_wrap"><img src="images/escape_key_icon.png"/></span>
+          </div>
+          <div class="text-block">
+             <h4>ESCAPE!</h4>
+             <p>Mission: Work together with your team, reach the goal and ESCAPE from the room!</p>
+          </div>
+        </div>
+        <!-- can_we_holder end -->
+      </div>
+      
+    </div>  
+  </div>
+   <!-- can_we_escape_middle end -->
+  
+ </div>
+</div>
+<!-- can_we_escape_wrapper end -->
+
+<!-- fantasy_wrapper start --> 
+<div class="fantasy_wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="img_block"><img src="images/fantasy.png"/></div>
+      </div>
+      <div class="col-md-6">
+         <div class="text_block">
+           <h5>We don't create a <span>fantasy</span> world to <span>escape reality</span>, we create it to be able to stay</h5>
+           <h4 class="name">-Lynda Barry </h4>
+         </div>
+      
+      </div>
+    </div>
+  </div>
+
+</div>
+<!-- fantasy_wrapper end -->    
+<!-- gift_voucher_wrapper start -->    
+<div class="gift_voucher_wrapper">
+ <div class="container">
+   <div class="row">
+     <div class="col-md-6">
+       <div class="img_block"><img src="images/gift_vouture_img.png"/></div>
+     </div>
+      <div class="col-md-6">
+        <div class="text_block">
+          <h5>Gift Voucher</h5>
+          <h2>IMPRESSIONS ARE 
+THE BEST GIFT!</h2>
+          <p>The certificates are beautifully packaged and can become a great gift for a special person in your life. The certificate holder may book any room time within three months.</p>
+          <div class="gift_bottom_block">
+            <a href="#" class="buy_btn">buy certificate</a> <a href="#" class="now_available"><img src="images/now_available_icon.png" alt="now_available"/></a>
+          </div>
+        </div>
+      </div>
+   </div>
+ 
+ </div>
+
+</div>
+<!-- gift_voucher_wrapper end -->    
+<!-- choose_date_wrapper start -->  
+<div class="choose_date_wrapper">
+ <div class="container">
+   <div class="row">
+     <div class="col-md-12 text-center"><h2>Please choose the date and time when you want your reality to become nonexistent</h2></div>
+   </div>
+   
+   <div class="choose_date_wrapper_holder">
+     <div class="row">
+       <div class="col-md-5">
+         <div class="img_block"><img src="images/calendar_icon.png"/></div>
+       </div>
+       <div class="col-md-7">
+         <div class="text_block"><h2>Choose the date and time</h2>
+           <a href="#" class="book_escape_game">BOOK YOUR ESCAPE GAME</a>
+         </div>
+       </div>
+     </div>
+   </div>
+ 
+ </div>
+
+</div>
+
+<!-- choose_date_wrapper end --> 
+ <!-- review_home_wrapper start -->
+ <div class="review_home_wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="img_block"><img src="images/reviews_img.png" alt="reviews"/></div>
+      </div>
+      <div class="col-md-6">
+        <!-- home_review_holder start  -->
+        <div class="home_review_holder">
+          <!-- owl-demo1 start -->
+              <h3>Reviews</h3>
+              <h2>WHAT THE
+PLAYERS SAY</h2>
+            <div class="owl-carousel" id="owl-demo1" >
+                <div class="item">
+                  <div class="service-holder">
+                    <div class="sevrice-text">
+                      <h3>Mr. Smith</h3>
+                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a
+                        type specimen book.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="service-holder">
+                    <div class="sevrice-text">
+                      <h3>Mark Robbs MD</h3>
+                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a
+                        type specimen book.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="service-holder">
+                    <div class="sevrice-text">
+                      <h3>Aaron Schill</h3>
+                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a
+                        type specimen book.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+           <!-- owl-demo1 end -->
+        </div>
+        
+         <!-- home_review_holder start  -->
+      
+      </div>
+    </div>
+  
+  </div>
+  
+ 
+ </div>
+ 
+  <!-- review_home_wrapper end -->
+ 
+ 
+ 
+  </div>  
+  <!-- home container end --> 
+  
+  <!-- footer start -->
+  <footer class="footer">
+    <div class="footer_top">
+      <div class="container">
+        <div class="row footer_border">
+          <div class="col-md-3 col-sm-6 footerblock"> 
+            <!-- footer_menu start -->
+            <div class="footer_about">
+              <div class="footer_logo">
+               <a class="footer-brand" href="index.html"><img src="images/logo.jpg" alt="Escaping" title="Escaping"/></a>
+              </div>              
+              <p>Lorem Ipsum is simply dummy text of the printing.
+                </p>
+            </div>
+            <!-- footer_menu end  --> 
+          </div>
+          <div class="col-md-3 col-sm-6 footerblock">
+            <div class="footer_block_middle"> 
+              <!-- footer_menu start -->
+              <h5>MENU</h5>
+              <ul class="footer_link">               
+                <li><a href="index.html">Home</a></li>
+                <li><a href="welcome.html">Welcome</a></li>
+                <li><a href="work_for_us.html">Work For Us</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+                <li><a href="contact_us.html">Contact Us</a></li>
+                 <li><a href="gift.html">Gift</a></li>
+                
+                
+              </ul>
+            </div>
+            <!-- footer_menu end  --> 
+          </div>
+          <div class="col-md-3 col-sm-6 footerblock">
+            <div class="footer_block_middle"> 
+              <!-- footer_menu start -->
+              <h5>GET SOCIAL</h5>
+              <ul class="footer_link">
+                <li><a href="#">Facebook</a> </li>
+                <li><a href="#">Instagram</a></li>                        
+                <li><a href="#">Twitter</a> </li>
+                <li><a href="#">YouTube</a> </li>
+               
+              </ul>
+            </div>
+            <!-- footer_menu end  --> 
+          </div>
+          <div class="col-md-3 col-sm-6 footerblock"> 
+            <!-- footer_menu start -->
+            <h5>CONTACT</h5>
+            <ul class="f_contact">
+              <li>123West 12th Street</li>
+              <li><a href="tel:18001234567"></i>+1 800-123-4567 </a> </li>
+              <li><a href="mailto:eccapingreality@gmail.com"> eccapingreality@gmail.com </a></li>
+             
+            </ul>
+            <!-- footer-social start -->
+            <div class="footer-social">  <a href="book_now.html" class="m_appoint_btn">BOOK NOW</a> </div>
+            <!-- footer-social end --> 
+            <!-- footer_menu end  --> 
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer_bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <p class="copyright_txt">© 2020. All Rights Reserved. </p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+  <!-- footer end --> 
+  
+   <!-- modal start -->
+           
+                
+ <!-- modal end -->
+
+  <a href="#" id="go-to-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+  <div class="cl"></div>
+</div>
+
+<!-- wrapper_home end --> 
+
+<!-- scripts start --> 
+<script type="text/javascript" src="js/jquery-3.5.1.min.js"></script> 
+<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<script src="js/owl.carousel.js"></script> 
+<script>
+$('#owl-demo1').owlCarousel({
+    loop:true,
+   ltr:true,  
+    nav:true,
+    margin:40,
+  autoplay:true,
+   autoplayTimeout:4000,
+    responsive:{
+        0:{
+            items:1
+        },
+        800:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+})
+$('#owl-demo2').owlCarousel({
+    loop:true,
+   ltr:true,  
+    nav:true,
+    margin:40,
+  autoplay:true,
+   autoplayTimeout:4000,
+    responsive:{
+        0:{
+            items:1
+        },
+        800:{
+            items:3
+        },
+        1000:{
+            items:4
+        }
+    }
+})
+</script> 
+<script src="js/wow.js"></script> 
+<script>
+     new WOW().init();
+    </script> 
+<script>
+$(document).ready(function() {
+     
+		    $(".fa-search").click(function() {
+		       $(".search-box").toggle(1000);
+		       $("input[type='text']").focus(1000);
+		     });
+ 
+ 		});
+
+</script> 
+<script>
+$(document).ready(function() {
+$('#go-to-top').each(function(){
+    $(this).click(function(){ 
+        $('html,body').animate({ scrollTop: 0 }, 3000);
+        return false; 
+    });
+	 })
+ })
+    </script> 
+<script>
+         jQuery(window).scroll(function() {
+
+             if (jQuery(this).scrollTop() > 1){  
+                 jQuery('.nav_holder').addClass("sticky slideInDown");                   
+             }
+             else{
+                 jQuery('.nav_holder').removeClass("sticky  slideInDown");			   
+
+             }
+
+         });         
+
+      </script> 
+<!-- scripts end -->
+</body>
+</html>
