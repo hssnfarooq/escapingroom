@@ -4603,6 +4603,7 @@ body {
   color: #ffffff;
   font-size: 20px;
   line-height: 2;
+  text-transform: capitalize;
   margin-bottom: 20px;
   font-weight: 400;
 }
@@ -4625,7 +4626,7 @@ body {
   color: #f2f2f2;
 }
 
-.mail_subscription form .form-control-mail input {
+.mail_subscription form .form-control-mail input[type='email'] {
   padding: 6px 12px;
   width: 280px;
   border: none;
@@ -4634,7 +4635,7 @@ body {
   font-family: 'Oswald', sans-serif;
 }
 
-.mail_subscription form .form-control-mail button {
+.mail_subscription form .button {
   background-color: #fe0000;
   color: #fff;
   font-size: 16px;
@@ -4646,6 +4647,37 @@ body {
   border: 0;
   outline: none;
   z-index: 1;
+}
+
+.response {
+  padding-top: 10px;
+}
+
+#mce-error-response {
+  color: #fe0000;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+}
+
+#mce-success-response {
+  color: rgb(10, 134, 10);
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+}
+
+#mc_embed_signup_scroll {
+  position: relative;
+}
+
+#mc_embed_signup div.mce_inline_error {
+  position: absolute;
+  top: 42px;
+  font-size: 15px !important;
+  font-family: 'Oswald', sans-serif !important;
+  background: transparent !important;
+  color: #fe0000 !important;
 }
 
 /********** sm   ***********/
