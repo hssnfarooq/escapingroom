@@ -383,6 +383,48 @@ body {
   float: right;
 }
 
+.top_bar .m_gift_btn {
+  color: #fe0000;
+
+  background: transparent;
+
+  border: 2px solid #fe0000;
+
+  font-size: 20px;
+
+  font-weight: 400;
+
+  font-family: 'Oswald', sans-serif;
+
+  padding: 14px 22px;
+  width: 100px;
+  text-align: center;
+
+  margin: 0px 0 0 11px;
+
+  position: relative;
+
+  cursor: pointer;
+
+  z-index: 1;
+
+  overflow: hidden;
+
+  -webkit-transition: 0.3s all linear;
+
+  transition: 0.3s all linear;
+
+  text-decoration: none;
+
+  float: right;
+}
+
+.top_bar .m_gift_btn:hover {
+  background-color: #fe0000;
+
+  color: #fff;
+}
+
 .top_bar .m_appoint_btn:hover {
   background-color: #fff;
 
@@ -553,8 +595,8 @@ body {
 
 /*------- home_header start ------*/
 
-.navbar-brand img {
-}
+/* .navbar-brand img {
+} */
 
 .sticky {
   top: 0;
@@ -855,8 +897,8 @@ body {
   right: 0;
 }
 
-#homebanner-holder .home-banner .container .col-md-8 {
-}
+/* #homebanner-holder .home-banner .container .col-md-8 {
+} */
 
 #homebanner-holder .home-banner .container .slider-text {
   text-align: left;
@@ -1452,8 +1494,8 @@ h3 {
   transform: rotateY(360deg);
 }
 
-.can_we_holder .text-block {
-}
+/* .can_we_holder .text-block {
+} */
 
 .can_we_holder .text-block h4 {
   font-family: 'Oswald', sans-serif;
@@ -1598,8 +1640,8 @@ h4.name {
   margin-bottom: 25px;
 }
 
-.gift_voucher_wrapper .text_block {
-}
+/* .gift_voucher_wrapper .text_block {
+} */
 
 .gift_voucher_wrapper .text_block h5 {
   color: #ff0000;
@@ -1641,8 +1683,8 @@ h4.name {
   font-weight: 300;
 }
 
-.gift_bottom_block {
-}
+/* .gift_bottom_block {
+} */
 
 .gift_bottom_block .now_available {
   margin: 12px 0 0 15px;
@@ -1734,8 +1776,8 @@ h4.name {
   margin-bottom: 20px;
 }
 
-.choose_date_wrapper_holder .text_block {
-}
+/* .choose_date_wrapper_holder .text_block {
+} */
 
 .choose_date_wrapper_holder .text_block h2 {
   font-family: 'Oswald', sans-serif;
@@ -1811,8 +1853,8 @@ h4.name {
   margin: 0 0 28px 0;
 }
 
-.home_review_holder {
-}
+/* .home_review_holder {
+} */
 
 .home_review_holder h3 {
   color: #ff0000;
@@ -2078,7 +2120,7 @@ h4.name {
 }
 
 .contact_wrapper .g_map {
-  margin: 30px 0;
+  margin: 40px 0 30px;
   height: 400px;
   width: 100%;
 }
@@ -2350,8 +2392,8 @@ h4.name {
 
 /*------- footer start -------*/
 
-.footer {
-}
+/* .footer {
+} */
 
 .footer_top {
   background-color: #0c0c0c;
@@ -2360,11 +2402,11 @@ h4.name {
   border-top: 1px solid #868686;
 }
 
-.footer_top .footer_border {
-}
+/* .footer_top .footer_border {
+} */
 
-.footer_block_middle {
-}
+/* .footer_block_middle {
+} */
 
 .footer_top .footer_link {
   list-style-type: none;
@@ -2662,7 +2704,7 @@ h4.name {
   align-items: center;
 }
 
-@-webkit-keyframes slide {
+@keyframes slide {
   from {
     background-position: 0 0;
   }
@@ -2838,8 +2880,8 @@ h4.name {
 
 /*------ welcome_wrapper_inner start ------*/
 
-.welcome_wrapper_inner {
-}
+/* .welcome_wrapper_inner {
+} */
 
 .welcome_inner_top .img_block .img_holder {
   position: relative;
@@ -2981,8 +3023,8 @@ h4.name {
   margin: 0 0 18px 0;
 }
 
-.are_you_ready_wrapper .text_block {
-}
+/* .are_you_ready_wrapper .text_block {
+} */
 
 .are_you_ready_wrapper .text_block h2 {
   color: #ff0000;
@@ -3367,8 +3409,8 @@ body {
 
 /*----------- reviews_wrapper start ------*/
 
-.reviews_wrapper {
-}
+/* .reviews_wrapper {
+} */
 
 .reviews_wrapper h2 {
   color: #ffffff;
@@ -3682,8 +3724,8 @@ body {
 
 /*-------  work_for_us_wrapper start -----*/
 
-.work_for_us_wrapper {
-}
+/* .work_for_us_wrapper {
+} */
 
 .work_for_us_wrapper h2 {
   color: #ffffff;
@@ -3781,8 +3823,8 @@ body {
 
 /*------- gift_wrapper start ------*/
 
-.gift_wrapper {
-}
+/* .gift_wrapper {
+} */
 
 .gift_wrapper_top {
   padding: 0 0 35px 0;
@@ -3931,7 +3973,7 @@ body {
 
   font-family: 'Oswald', sans-serif;
 
-  font-size: 35px;
+  font-size: 30px;
 
   line-height: 40px;
 
@@ -4523,6 +4565,87 @@ body {
   text-decoration: none;
 
   opacity: 0.75;
+}
+
+.coming-soon {
+  color: #fd0101;
+  font-family: 'alien_encounters_solidregular';
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.cmg-soon {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  margin-bottom: 20px;
+  font-weight: 390;
+  text-align: center;
+  padding-bottom: 65px;
+}
+
+.mail_subscription {
+  padding: 95px 0;
+  background-color: #0c0c0c;
+}
+
+.mail_subscription h3 {
+  color: #fd0101;
+  font-family: 'alien_encounters_solidregular';
+  font-size: 27px;
+  line-height: 32px;
+  margin-bottom: 15px;
+}
+
+.mail_subscription p {
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 2;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+.mail_subscription form .form-control-mail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mail_subscription form .form-control-mail label {
+  background-color: #fd0101;
+  margin-bottom: 0px;
+  padding: 4px 0px;
+}
+
+.mail_subscription form .form-control-mail label i {
+  font-size: 20px;
+  padding: 4px 6px;
+  color: #f2f2f2;
+}
+
+.mail_subscription form .form-control-mail input {
+  padding: 6px 12px;
+  width: 280px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.mail_subscription form .form-control-mail button {
+  background-color: #fe0000;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Oswald', sans-serif;
+  padding: 6px 15px;
+  position: relative;
+  cursor: pointer;
+  border: 0;
+  outline: none;
+  z-index: 1;
 }
 
 /********** sm   ***********/
