@@ -96,7 +96,7 @@
                 class="m_appoint_btn"
                 >BOOK NOW</a
               >
-              <a href="./gift.html" class="m_gift_btn">GIFT</a>
+              <!-- <a href="./gift.html" class="m_gift_btn">GIFT</a> -->
               <!-- header_top_social start -->
 
               <div class="header_top_social">
@@ -163,17 +163,19 @@
                 >
                   <div class="menu-menu-1-container nav_yellow_center">
                     <ul id="navbar-nav" class="navbar-nav">
-                      <li class="menu-item current_page_item">
-                        <a href="index.html" class="">Home </a>
+                      <li class="menu-item">
+                        <a href="index.html" class="">Home/VR</a>
+                      </li>
+
+                      <li class="menu-item">
+                        <a href="./escape_room.html" class="">Escape Room</a>
                       </li>
 
                       <li class="menu-item">
                         <a href="welcome.html">Welcome</a>
                       </li>
 
-                      <li class="menu-item">
-                        <a href="work_for_us.html">work for us </a>
-                      </li>
+                      <!-- <li class="menu-item"><a href="work_for_us.html">work for us </a></li> -->
 
                       <li class="menu-item">
                         <a href="reviews.html"> reviews </a>
@@ -259,10 +261,11 @@
                     being said our gifts aren’t exclusive to purchase for
                     others. If the realities of life are becoming too hard to
                     bear, join us by treating yourself to a future adventure to
-                    escape yours!<br /><br />
+                    escape yours!
+                    <br /><br />
 
                     Want gift cards for the whole team? No problem. Refillable
-                    options coming soon.<br />
+                    options coming<br />
                   </p>
                 </div>
               </div>
@@ -564,18 +567,18 @@
                 (function ($) {
                   window.fnames = new Array();
                   window.ftypes = new Array();
-                  fnames[0] = 'EMAIL';
-                  ftypes[0] = 'email';
-                  fnames[1] = 'FNAME';
-                  ftypes[1] = 'text';
-                  fnames[2] = 'LNAME';
-                  ftypes[2] = 'text';
-                  fnames[3] = 'ADDRESS';
-                  ftypes[3] = 'address';
-                  fnames[4] = 'PHONE';
-                  ftypes[4] = 'phone';
-                  fnames[5] = 'BIRTHDAY';
-                  ftypes[5] = 'birthday';
+                  fnames[0] = "EMAIL";
+                  ftypes[0] = "email";
+                  fnames[1] = "FNAME";
+                  ftypes[1] = "text";
+                  fnames[2] = "LNAME";
+                  ftypes[2] = "text";
+                  fnames[3] = "ADDRESS";
+                  ftypes[3] = "address";
+                  fnames[4] = "PHONE";
+                  ftypes[4] = "phone";
+                  fnames[5] = "BIRTHDAY";
+                  ftypes[5] = "birthday";
                 })(jQuery);
                 var $mcj = jQuery.noConflict(true);
               </script>
@@ -738,7 +741,7 @@
     <script src="js/owl.carousel.js"></script>
 
     <script>
-      $('#owl-demo1').owlCarousel({
+      $("#owl-demo1").owlCarousel({
         loop: true,
 
         ltr: true,
@@ -766,7 +769,7 @@
         },
       });
 
-      $('#owl-demo2').owlCarousel({
+      $("#owl-demo2").owlCarousel({
         loop: true,
 
         ltr: true,
@@ -803,8 +806,8 @@
 
     <script>
       $(document).ready(function () {
-        $('.fa-search').click(function () {
-          $('.search-box').toggle(1000);
+        $(".fa-search").click(function () {
+          $(".search-box").toggle(1000);
 
           $("input[type='text']").focus(1000);
         });
@@ -813,9 +816,9 @@
 
     <script>
       $(document).ready(function () {
-        $('#go-to-top').each(function () {
+        $("#go-to-top").each(function () {
           $(this).click(function () {
-            $('html,body').animate({ scrollTop: 0 }, 3000);
+            $("html,body").animate({ scrollTop: 0 }, 3000);
 
             return false;
           });
@@ -826,14 +829,14 @@
     <script>
       jQuery(window).scroll(function () {
         if (jQuery(this).scrollTop() > 1) {
-          jQuery('.nav_holder').addClass('sticky slideInDown');
+          jQuery(".nav_holder").addClass("sticky slideInDown");
         } else {
-          jQuery('.nav_holder').removeClass('sticky  slideInDown');
+          jQuery(".nav_holder").removeClass("sticky  slideInDown");
         }
       });
     </script>
     <script>
-      document.getElementById('getyear').innerHTML = new Date().getFullYear();
+      document.getElementById("getyear").innerHTML = new Date().getFullYear();
     </script>
     <!-- scripts end -->
   </body>
